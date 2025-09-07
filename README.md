@@ -1,6 +1,6 @@
 # SMA-NEGERI-1-DARUSSALAM-
 
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
