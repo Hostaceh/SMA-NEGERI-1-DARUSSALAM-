@@ -42,7 +42,7 @@
             pointer-events: none;
         }
         .loading-logo {
-            width: 80px;
+            width: 90px;
             height: 80px;
             margin-bottom: 20px;
             animation: pulse 2s infinite;
@@ -297,7 +297,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Alamat</h4>
-                                <p class="text-gray-600">Jl. Banda Aceh - Medan KM 25, Darussalam, Aceh Besar</p>
+                                <p class="text-gray-600">Jl. lambaro sukon desa lambaro sukon kec,darussalam, Aceh Besar</p>
                             </div>
                         </div>
                         
@@ -317,7 +317,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Email</h4>
-                                <p class="text-gray-600">info@sman1darussalam.sch.id</p>
+                                <p class="text-gray-600">https://hostaceh.github.io/SMA-NEGERI-1-DARUSSALAM-/#sma-negeri-1-darussalam-1</p>
                             </div>
                         </div>
                         
@@ -327,7 +327,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Website</h4>
-                                <p class="text-gray-600">www.sman1darussalam.sch.id</p>
+                                <p class="text-gray-600">https://hostaceh.github.io/SMA-NEGERI-1-DARUSSALAM-/#sma-negeri-1-darussalam-1</p>
                             </div>
                         </div>
                     </div>
