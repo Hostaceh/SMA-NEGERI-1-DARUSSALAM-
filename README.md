@@ -317,7 +317,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Email</h4>
-                                <p class="text-gray-600">https://hostaceh.github.io/SMA-NEGERI-1-DARUSSALAM-/#sma-negeri-1-darussalam-1</p>
+                                <p class="text-gray-600">-</p>
                             </div>
                         </div>
                         
