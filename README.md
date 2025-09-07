@@ -317,7 +317,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Email</h4>
-                                <p class="text-gray-600">-</p>
+                                <p class="text-gray-600">- 0 </p>
                             </div>
                         </div>
                         
