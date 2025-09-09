@@ -1,6 +1,4 @@
-# SMA-NEGERI-1-DARUSSALAM-
-
-
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -29,7 +27,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: green(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             display: flex;
             flex-direction: column;
             justify-content: center;
@@ -42,7 +40,7 @@
             pointer-events: none;
         }
         .loading-logo {
-            width: 90px;
+            width: 80px;
             height: 80px;
             margin-bottom: 20px;
             animation: pulse 2s infinite;
@@ -297,7 +295,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Alamat</h4>
-                                <p class="text-gray-600">Jl. lambaro sukon desa lambaro sukon kec,darussalam, Aceh Besar</p>
+                                <p class="text-gray-600">Jl. Banda Aceh - Medan KM 25, Darussalam, Aceh Besar</p>
                             </div>
                         </div>
                         
@@ -317,7 +315,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Email</h4>
-                                <p class="text-gray-600">- 0 </p>
+                                <p class="text-gray-600">info@sman1darussalam.sch.id</p>
                             </div>
                         </div>
                         
@@ -327,7 +325,7 @@
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Website</h4>
-                                <p class="text-gray-600">https://hostaceh.github.io/SMA-NEGERI-1-DARUSSALAM-/#sma-negeri-1-darussalam-1</p>
+                                <p class="text-gray-600">www.sman1darussalam.sch.id</p>
                             </div>
                         </div>
                     </div>
@@ -592,5 +590,6 @@
             });
         });
     </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97b49314e4b489bc',t:'MTc1NzIzMTAwMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97c3f2ff66e0ce52',t:'MTc1NzM5MjIxNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
+
