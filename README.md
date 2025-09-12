@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -176,18 +177,18 @@
                     <div>
                         <h3 class="text-xl font-semibold text-gray-800 mb-4">Visi</h3>
                         <p class="text-gray-600 mb-6 bg-blue-50 p-4 rounded-lg">
-                            "Mewujudkan sumber daya manusia yang produktif, berprestasi, serta menguasai ilmu  pengetahuan dan teknologi berdasarkan keimanan dan ketaqwaan kepada Allah SWT.”
+                            "Mewujudkan sumber daya manusia yang produktif, berprestasi, serta menguasai ilmu pengetahuan dan teknologi berdasarkan keimanan dan ketaqwaan kepada Allah SWT."
                         </p>
                         
                         <h3 class="text-xl font-semibold text-gray-800 mb-4">Misi</h3>
                         <ul class="text-gray-600 space-y-2">
-                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan keimanan dan ketaqwaan melalui pengamalan ajaran agama </li>
-                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Melaksanakan pembelajaran intrakurikuler dan ekstrakurikuler serta bimbingan secara efektif, kapada peserta didik yang berkembang secara optimal.</li>
-        <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Mengembangkan bidang ilmu pengetahuan dan teknologi berdasarkan minat bakat dan potensi peserta didik.</li>
-            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Membina kemandirian peserta didik melalui kegiatan kewirausahaan dan pengembangan diri yang terencana dan berkesinambungan.</li>
-<li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan fisik dan lingkungan sekolah melalui program Bersih, Rapi, Estetika dan Hijau (BEREH).<li 
-class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan peran orang tua, masyarakat dan lembaga lain yang terkait.<li class="flex items-start"><i
-class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan jumlah lulusan peserta didik ke perguruan tinggi negeri setiap tahun 
+                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan keimanan dan ketaqwaan melalui pengamalan ajaran agama</li>
+                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Melaksanakan pembelajaran intrakurikuler dan ekstrakurikuler serta bimbingan secara efektif, kepada peserta didik yang berkembang secara optimal</li>
+                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Mengembangkan bidang ilmu pengetahuan dan teknologi berdasarkan minat bakat dan potensi peserta didik</li>
+                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Membina kemandirian peserta didik melalui kegiatan kewirausahaan dan pengembangan diri yang terencana dan berkesinambungan</li>
+                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan fisik dan lingkungan sekolah melalui program Bersih, Rapi, Estetika dan Hijau (BEREH)</li>
+                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan peran orang tua, masyarakat dan lembaga lain yang terkait</li>
+                            <li class="flex items-start"><i class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan jumlah lulusan peserta didik ke perguruan tinggi negeri setiap tahun</li>
                         </ul>
                     </div>
                     
@@ -298,7 +299,7 @@ class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan jumlah lul
                             </div>
                             <div>
                                 <h4 class="font-semibold text-gray-800">Alamat</h4>
-                                <p class="text-gray-600">Jl. Lambro angan,Des. Lambaro Sukon , Darussalam, Aceh Besar</p>
+                                <p class="text-gray-600">Jl. Banda Aceh - Medan KM 25, Darussalam, Aceh Besar</p>
                             </div>
                         </div>
                         
@@ -505,8 +506,8 @@ class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan jumlah lul
                     const columns = row.split(',').map(col => col.replace(/"/g, '').trim());
                     return {
                         category: columns[0] || 'UMUM',
-                        title: columns[1] || 'menunggu proses ',
-                        content: columns[2] || 'periksa ',
+                        title: columns[1] || 'Judul tidak tersedia',
+                        content: columns[2] || 'Konten tidak tersedia',
                         date: columns[3] || new Date().toLocaleDateString('id-ID'),
                         author: columns[4] || 'Admin'
                     };
@@ -593,6 +594,7 @@ class="fas fa-check-circle text-green-500 mr-2 mt-1"></i>Meningkatkan jumlah lul
             });
         });
     </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97c3f2ff66e0ce52',t:'MTc1NzM5MjIxNS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'97dc8e3045516bf4',t:'MTc1NzY1MDIzMC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
+
 
